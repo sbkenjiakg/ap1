@@ -1,0 +1,10 @@
+// 入力用データ
+class HelloWorld {
+    public static void main(String[] args) {
+        // Hello, world! を画面に10回出力する
+        int count = 10; // 繰り返し回数
+        for (int i=0; i<count; i++) {
+            System.out.println("Hello, world!");
+        }
+    }
+}
